@@ -1,0 +1,24 @@
+# Core
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Machine learning
+scikit-learn>=1.3
+
+# Ottimizzazione
+cvxpy>=1.4
+
+# Black-Litterman (validazione incrociata)
+PyPortfolioOpt>=1.5
+
+# Lettura dati Excel
+openpyxl>=3.1
+
+# Visualizzazione
+matplotlib>=3.7
+plotly>=5.18
+
+# Ambiente notebook
+jupyter>=1.0
+ipython>=8.12
