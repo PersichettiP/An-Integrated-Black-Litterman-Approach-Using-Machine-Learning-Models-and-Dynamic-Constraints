@@ -1,7 +1,6 @@
 # Framework di asset allocation multi-asset con LASSO, Black–Litterman e regime detection
 
-Implementazione Python del framework sviluppato nella tesi di laurea magistrale
-*"[titolo della tesi]"*, LUISS Guido Carli — A.A. 2025/2026.
+Implementazione Python del framework sviluppato nella tesi di laurea magistrale, LUISS Guido Carli — A.A. 2025/2026.
 
 Il framework integra:
 - **views generate tramite LASSO** su un pannello di 27 predittori (feature specifiche
@@ -69,5 +68,5 @@ delle componenti stocastiche (Random Forest, LASSO con cross-validation).
 
 ## Riferimento
 
-Persichetti, P. (2026). *[Titolo della tesi]*. Tesi di laurea magistrale,
+Persichetti, P. (2026). Tesi di laurea magistrale,
 LUISS Guido Carli. Relatore: Prof. Ugo Pomante.
